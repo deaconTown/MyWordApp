@@ -1,0 +1,15 @@
+D:\AssessemtProject\MyWordApp\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\AssessemtProject\MyWordApp\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AssessemtProject\MyWordApp\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\AssessemtProject\MyWordApp\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\AssessemtProject\MyWordApp\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\AssessemtProject\MyWordApp\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\AssessemtProject\MyWordApp\Domain\bin\Debug\net6.0\Domain.dll
+D:\AssessemtProject\MyWordApp\Domain\bin\Debug\net6.0\Domain.pdb
+D:\AssessemtProject\MyWordApp\Domain\bin\Debug\net6.0\Core.dll
+D:\AssessemtProject\MyWordApp\Domain\bin\Debug\net6.0\Core.pdb
+D:\AssessemtProject\MyWordApp\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+D:\AssessemtProject\MyWordApp\Domain\obj\Debug\net6.0\Domain.dll
+D:\AssessemtProject\MyWordApp\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\AssessemtProject\MyWordApp\Domain\obj\Debug\net6.0\Domain.pdb
+D:\AssessemtProject\MyWordApp\Domain\obj\Debug\net6.0\ref\Domain.dll
