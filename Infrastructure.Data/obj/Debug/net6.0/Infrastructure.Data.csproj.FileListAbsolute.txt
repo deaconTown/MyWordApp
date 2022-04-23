@@ -1,0 +1,17 @@
+D:\AssessemtProject\MyWordApp\Infrastructure.Data\bin\Debug\net6.0\Infrastructure.Data.deps.json
+D:\AssessemtProject\MyWordApp\Infrastructure.Data\bin\Debug\net6.0\Infrastructure.Data.dll
+D:\AssessemtProject\MyWordApp\Infrastructure.Data\bin\Debug\net6.0\Infrastructure.Data.pdb
+D:\AssessemtProject\MyWordApp\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.csproj.AssemblyReference.cache
+D:\AssessemtProject\MyWordApp\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\AssessemtProject\MyWordApp\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.AssemblyInfoInputs.cache
+D:\AssessemtProject\MyWordApp\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.AssemblyInfo.cs
+D:\AssessemtProject\MyWordApp\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\AssessemtProject\MyWordApp\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.dll
+D:\AssessemtProject\MyWordApp\Infrastructure.Data\obj\Debug\net6.0\refint\Infrastructure.Data.dll
+D:\AssessemtProject\MyWordApp\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.pdb
+D:\AssessemtProject\MyWordApp\Infrastructure.Data\obj\Debug\net6.0\ref\Infrastructure.Data.dll
+D:\AssessemtProject\MyWordApp\Infrastructure.Data\bin\Debug\net6.0\Core.dll
+D:\AssessemtProject\MyWordApp\Infrastructure.Data\bin\Debug\net6.0\Domain.dll
+D:\AssessemtProject\MyWordApp\Infrastructure.Data\bin\Debug\net6.0\Domain.pdb
+D:\AssessemtProject\MyWordApp\Infrastructure.Data\bin\Debug\net6.0\Core.pdb
+D:\AssessemtProject\MyWordApp\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.csproj.CopyComplete
