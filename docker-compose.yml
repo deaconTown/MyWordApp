@@ -11,3 +11,15 @@ services:
     ports:
       - 5000:5000
       - 5001:5001
+    
+  db:
+        image: "mcr.microsoft.com/mssql/server"
+        environment:
+            SA_PASSWORD: "Login_123."
+            ACCEPT_EULA: "Y"
+        hostname: localhost
+        volumes:
+          - ./db_data:/var/opt/mssql/data
+        ports:
+          - 13500:1433
+          - 13501:1343
